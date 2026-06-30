@@ -1,0 +1,6 @@
+{
+  "name": "Heenuvanshii Salon Studio",
+  "description": "A luxury salon booking platform with customer and admin dashboard features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
